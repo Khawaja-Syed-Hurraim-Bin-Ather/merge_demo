@@ -1,2 +1,2 @@
-discount = 10
+discount = 30
 print("Discount:", discount)
